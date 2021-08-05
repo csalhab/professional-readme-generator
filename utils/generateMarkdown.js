@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   - [Installation Instructions](#installation-instructions)
   - [Usage](#usage)
   - [Contributing Guidelines](#contributing-guidelines)
-  - [Testing](#test)
+  - [Testing](#testing)
   - [Questions](#questions)
 
   ## Installation Instructions
