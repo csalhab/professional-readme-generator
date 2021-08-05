@@ -1,0 +1,11 @@
+{
+  "projectTitle": "Node Expert",
+  "projectDescription": "Using nodejs to dynamically and automatically generate a README.md file from command line.",
+  "installationInstructions": "Open up the README.md on github.",
+  "usageInformation": "A video recording is available to help guide how to use this project. But basically check title, description, installations, usage, license and testing.",
+  "contributionGuidelines": "Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.",
+  "testInstructions": "Click TOC items and if link is going to it's section correctly, that confirms.",
+  "license": "MIT",
+  "username": "csalhab",
+  "email": "ccs@gmail.com"
+}
